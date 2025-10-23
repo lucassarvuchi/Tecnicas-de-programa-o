@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using reserva_de_sala_dsm.Data;
+
 namespace reserva_de_sala_dsm
 {
     public class Program
@@ -8,6 +11,16 @@ namespace reserva_de_sala_dsm
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddDbContext<BancoContext>(opts =>             {
+                opts.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+            });
+
+            builder.Services.AddScoped<Interfaces.IUsuarioRepository, Repositories.UsuarioRepository>();
+            builder.Services.AddScoped<Interfaces.ISalaRepository, Repositories.SalaRepository>();
+            builder.Services.AddScoped<Services.SalaService>();
+
+            IServiceCollection serviceCollection = builder.Services.AddScoped<Services.UsuarioService>();
 
             var app = builder.Build();
 

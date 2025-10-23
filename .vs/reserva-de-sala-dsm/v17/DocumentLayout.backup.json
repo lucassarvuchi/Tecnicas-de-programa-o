@@ -1,7 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Aluno\\OneDrive - Fatec Centro Paula Souza\\\u00C1rea de Trabalho\\WEB II\\reserva-de-sala-dsm\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Aluno\\OneDrive - Fatec Centro Paula Souza\\\u00C1rea de Trabalho\\WEB II\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Migrations\\20251022225101_AddSalaEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:reserva-de-sala-dsm\\Migrations\\20251022225101_AddSalaEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F6D0C4-E4E3-4098-950B-9F191D791899}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\onedrive - fatec centro paula souza\\\u00E1rea de trabalho\\web ii\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F6D0C4-E4E3-4098-950B-9F191D791899}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F6D0C4-E4E3-4098-950B-9F191D791899}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\onedrive - fatec centro paula souza\\\u00E1rea de trabalho\\web ii\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\models\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F6D0C4-E4E3-4098-950B-9F191D791899}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\models\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F6D0C4-E4E3-4098-950B-9F191D791899}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\onedrive - fatec centro paula souza\\\u00E1rea de trabalho\\web ii\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F6D0C4-E4E3-4098-950B-9F191D791899}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F6D0C4-E4E3-4098-950B-9F191D791899}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\onedrive - fatec centro paula souza\\\u00E1rea de trabalho\\web ii\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F6D0C4-E4E3-4098-950B-9F191D791899}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F6D0C4-E4E3-4098-950B-9F191D791899}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\onedrive - fatec centro paula souza\\\u00E1rea de trabalho\\web ii\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F6D0C4-E4E3-4098-950B-9F191D791899}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F6D0C4-E4E3-4098-950B-9F191D791899}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\onedrive - fatec centro paula souza\\\u00E1rea de trabalho\\web ii\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45F6D0C4-E4E3-4098-950B-9F191D791899}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F6D0C4-E4E3-4098-950B-9F191D791899}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\onedrive - fatec centro paula souza\\\u00E1rea de trabalho\\web ii\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F6D0C4-E4E3-4098-950B-9F191D791899}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F6D0C4-E4E3-4098-950B-9F191D791899}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\onedrive - fatec centro paula souza\\\u00E1rea de trabalho\\web ii\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\migrations\\20251002001006_criandoentidadeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F6D0C4-E4E3-4098-950B-9F191D791899}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\migrations\\20251002001006_criandoentidadeusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F6D0C4-E4E3-4098-950B-9F191D791899}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|c:\\users\\aluno\\onedrive - fatec centro paula souza\\\u00E1rea de trabalho\\web ii\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\migrations\\20251001234220_criacaodobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F6D0C4-E4E3-4098-950B-9F191D791899}|reserva-de-sala-dsm\\reserva-de-sala-dsm.csproj|solutionrelative:reserva-de-sala-dsm\\migrations\\20251001234220_criacaodobanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +50,135 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20251022225101_AddSalaEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - Fatec Centro Paula Souza\\\u00C1rea de Trabalho\\WEB II\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Migrations\\20251022225101_AddSalaEntity.cs",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Migrations\\20251022225101_AddSalaEntity.cs",
+              "ToolTip": "C:\\Users\\Aluno\\OneDrive - Fatec Centro Paula Souza\\\u00C1rea de Trabalho\\WEB II\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Migrations\\20251022225101_AddSalaEntity.cs",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Migrations\\20251022225101_AddSalaEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T22:51:02.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sala.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - Fatec Centro Paula Souza\\\u00C1rea de Trabalho\\WEB II\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Models\\Sala.cs",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Models\\Sala.cs",
+              "ToolTip": "C:\\Users\\Aluno\\OneDrive - Fatec Centro Paula Souza\\\u00C1rea de Trabalho\\WEB II\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Models\\Sala.cs",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Models\\Sala.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T22:42:16.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - Fatec Centro Paula Souza\\\u00C1rea de Trabalho\\WEB II\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Aluno\\OneDrive - Fatec Centro Paula Souza\\\u00C1rea de Trabalho\\WEB II\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:27:04.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - Fatec Centro Paula Souza\\\u00C1rea de Trabalho\\WEB II\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Aluno\\OneDrive - Fatec Centro Paula Souza\\\u00C1rea de Trabalho\\WEB II\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:20:48.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251002001006_CriandoEntidadeUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - Fatec Centro Paula Souza\\\u00C1rea de Trabalho\\WEB II\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Migrations\\20251002001006_CriandoEntidadeUsuario.cs",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Migrations\\20251002001006_CriandoEntidadeUsuario.cs",
+              "ToolTip": "C:\\Users\\Aluno\\OneDrive - Fatec Centro Paula Souza\\\u00C1rea de Trabalho\\WEB II\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Migrations\\20251002001006_CriandoEntidadeUsuario.cs",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Migrations\\20251002001006_CriandoEntidadeUsuario.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T00:10:06.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - Fatec Centro Paula Souza\\\u00C1rea de Trabalho\\WEB II\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Aluno\\OneDrive - Fatec Centro Paula Souza\\\u00C1rea de Trabalho\\WEB II\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Models\\Usuario.cs",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T23:57:33.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BancoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - Fatec Centro Paula Souza\\\u00C1rea de Trabalho\\WEB II\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Data\\BancoContext.cs",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Data\\BancoContext.cs",
+              "ToolTip": "C:\\Users\\Aluno\\OneDrive - Fatec Centro Paula Souza\\\u00C1rea de Trabalho\\WEB II\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Data\\BancoContext.cs",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Data\\BancoContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T23:04:05.465Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251001234220_CriacaoDoBanco.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - Fatec Centro Paula Souza\\\u00C1rea de Trabalho\\WEB II\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Migrations\\20251001234220_CriacaoDoBanco.cs",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Migrations\\20251001234220_CriacaoDoBanco.cs",
+              "ToolTip": "C:\\Users\\Aluno\\OneDrive - Fatec Centro Paula Souza\\\u00C1rea de Trabalho\\WEB II\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Migrations\\20251001234220_CriacaoDoBanco.cs",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Migrations\\20251001234220_CriacaoDoBanco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T23:42:21.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - Fatec Centro Paula Souza\\\u00C1rea de Trabalho\\WEB II\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\appsettings.json",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aluno\\OneDrive - Fatec Centro Paula Souza\\\u00C1rea de Trabalho\\WEB II\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\appsettings.json",
+              "RelativeToolTip": "reserva-de-sala-dsm\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-01T23:31:20.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\OneDrive - Fatec Centro Paula Souza\\\u00C1rea de Trabalho\\WEB II\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Program.cs",
+              "RelativeDocumentMoniker": "reserva-de-sala-dsm\\Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\OneDrive - Fatec Centro Paula Souza\\\u00C1rea de Trabalho\\WEB II\\reserva-de-sala-dsm\\reserva-de-sala-dsm\\Program.cs",
+              "RelativeToolTip": "reserva-de-sala-dsm\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T23:10:46.089Z"
             }
           ]
         }
